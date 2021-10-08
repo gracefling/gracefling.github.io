@@ -46,7 +46,7 @@ header {
 }
 
 header * {
-    color: #F6B018;
+    color: orange;
 }
 
 hr {
@@ -87,7 +87,7 @@ body {
 }
 
 h1 {
-    color: red;
+    color: orange;
     text-align: center;
     background-color: gray;
 }

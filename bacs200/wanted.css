@@ -27,7 +27,7 @@ aside {
     color: white;
     border: 2px solid red;
     float: right;
-    width: 30%;
+    width: 50%;
 }
 
 footer {
@@ -43,7 +43,7 @@ header {
     font-family: sans-serif;
     text-align: center;
     font-size: 50px;
-    height: 200px;
+    height: 170px;
     padding: 0;
 }
 main {

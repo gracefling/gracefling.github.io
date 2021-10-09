@@ -25,7 +25,7 @@ aside {
     font-size: 50px;
     font-family: sans-serif;
     color: white;
-    border: 2px solid orange;
+    border: 2px solid black;
     float: right;
     width: 30%;
 }
@@ -39,14 +39,14 @@ footer {
 
 header {
     border: 3px solid #F6B018;
-    background-color: black;
+    background-color: tan;
     font-family: sans-serif;
     height: 120px;
     padding: 0;
 }
 
 header * {
-    color: orange;
+    color: black;
 }
 
 hr {
@@ -87,9 +87,9 @@ body {
 }
 
 h1 {
-    color: orange;
+    color: black;
     text-align: center;
-    background-color: black;
+    background-color: tan;
     font-size: 50px;
-    
+
 }

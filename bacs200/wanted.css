@@ -6,10 +6,12 @@
     margin: 10px;
     color: #0E3D65;
 }
-
+head {
+    margin: 96px;
+}
 body {
     padding: 0px;
-    margin: 0px;
+    margin: 96px;
 }
 
 article {

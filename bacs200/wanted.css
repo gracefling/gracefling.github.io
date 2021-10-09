@@ -46,6 +46,9 @@ header {
     height: 120px;
     padding: 0;
 }
+main {
+    text-align: center;
+}
 
 header * {
     color: black;

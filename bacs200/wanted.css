@@ -52,6 +52,7 @@ header {
 }
 main {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 header * {
@@ -67,6 +68,7 @@ li {
     margin: 5px 3em;
     padding: 0px;
     color: black;
+    font-family: 'Courier New', Courier, monospace;
 }
 section {
     float: left;
@@ -106,8 +108,10 @@ h1 {
     background-color: tan;
     font-size: 50px;
     border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
 
 }
 h2 {
     color:black;
+    font-family: 'Courier New', Courier, monospace;
 }

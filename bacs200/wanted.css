@@ -64,6 +64,9 @@ li {
     padding: 0px;
     color: black;
 }
+image {
+    float: left;
+}
 
 /* ----------------------------------------------- */
 /* Classes */

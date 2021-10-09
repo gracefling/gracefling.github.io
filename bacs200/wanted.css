@@ -41,6 +41,8 @@ header {
     border: 3px solid #F6B018;
     background-color: tan;
     font-family: sans-serif;
+    text-align: center;
+    font-size: 50px;
     height: 120px;
     padding: 0;
 }

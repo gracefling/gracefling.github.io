@@ -34,22 +34,6 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: hidden;
 }
 
-.nav-scroller .nav {
-  display: flex;
-  flex-wrap: nowrap;
-  padding-bottom: 1rem;
-  margin-top: -1px;
-  overflow-x: auto;
-  text-align: center;
-  white-space: nowrap;
-  -webkit-overflow-scrolling: touch;
-}
-
-.nav-scroller .nav-link {
-  padding-top: .75rem;
-  padding-bottom: .75rem;
-  font-size: .875rem;
-}
 
 .card-img-right {
   height: 100%;
@@ -103,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-margin: 0;
+margin: 1em;
 font-family: var(--bs-body-font-family);
 font-size: var(--bs-body-font-size);
 font-weight: var(--bs-body-font-weight);

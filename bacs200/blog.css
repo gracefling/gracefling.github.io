@@ -112,4 +112,25 @@ color: var(--bs-body-color);
 text-align: var(--bs-body-text-align);
 background-color: var(--bs-body-bg);
 }
+*, ::after, ::before {
+box-sizing: border-box;
+}
+body {
+display: block;
+}
+*, ::after, ::before {
+box-sizing: border-box;
+}
+*, ::after, ::before {
+box-sizing: border-box;
+}
+:root {
+--bs-font-sans-serif: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+--bs-body-font-family: var(--bs-font-sans-serif);
+--bs-body-font-size: 1rem;
+--bs-body-font-weight: 400;
+--bs-body-line-height: 1.5;
+--bs-body-color: #212529;
+--bs-body-bg: #fff;
+}
 

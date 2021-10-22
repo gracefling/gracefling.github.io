@@ -1,3 +1,6 @@
 .carousel {
   height: 100px;  
 }
+.d-block {
+    height: 50%;
+}

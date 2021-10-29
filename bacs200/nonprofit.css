@@ -21,3 +21,7 @@ background-color:indigo;
 .col-sm h3{
     color:indigo
 }
+
+.card {
+    align-items: center;
+}

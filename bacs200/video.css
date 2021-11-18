@@ -1,15 +1,15 @@
 
 
 .container-fluid {
-background-color:black;
+background-color:grey;
 }
 
 .note {
-    background-color:black;
+    background-color:grey;
 }
 
 .col-sm h3{
-    color: black;
+    color:grey;
 }
 
 .card {

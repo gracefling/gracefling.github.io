@@ -16,6 +16,6 @@ background-color:grey;
     align-items: center;
 }
 
-body {
+.inner-body {
     padding: 1em;
 }

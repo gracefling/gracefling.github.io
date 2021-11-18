@@ -15,3 +15,7 @@ background-color:grey;
 .card {
     align-items: center;
 }
+
+body {
+    padding: 1px;
+}
